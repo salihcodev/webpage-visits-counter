@@ -1,0 +1,24 @@
+{
+  "name": "webpage-visits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node ./app/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salihcodev/webpage-visits-counter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salihcodev/webpage-visits-counter/issues"
+  },
+  "homepage": "https://github.com/salihcodev/webpage-visits-counter#readme",
+  "description": ""
+}
